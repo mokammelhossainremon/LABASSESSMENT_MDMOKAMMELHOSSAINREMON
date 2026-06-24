@@ -1,0 +1,2 @@
+we use commit for saving a snapshot of changes to the repository with a descriptive message
+ 
